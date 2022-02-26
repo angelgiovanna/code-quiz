@@ -4,7 +4,7 @@ For this challenge, I was asked to make a timed quiz.
 ## Links:
 Link to Deployed Application: https://angelgiovanna.github.io/code-quiz/
  
-Link to GitHub Repository:
+Link to GitHub Repository: https://github.com/angelgiovanna/code-quiz
  
 ## User Story:
 AS A coding boot camp student
