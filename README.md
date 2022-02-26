@@ -25,3 +25,4 @@ SO THAT I can gauge my progress compared to my peers
 * THEN I can save my initials and score
  
 ## Screenshot:
+![Code quiz](https://user-images.githubusercontent.com/96391351/155854658-ac3112e1-5edc-4a82-b29c-a71aa0936087.png)
